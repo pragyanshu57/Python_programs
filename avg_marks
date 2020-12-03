@@ -1,0 +1,5 @@
+subject1=int(input())
+subject2=int(input())
+subject3=int(input())
+average=(subject1+subject2+subject3)/3
+print(average)
